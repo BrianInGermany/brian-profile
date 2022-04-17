@@ -1,21 +1,21 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Lab3 e.V.
+- organization: Offenbacher helfen e.V.
   role: Member
-  year: 2019 &mdash; Present
-  url: https://lab3.org/
-  summary: Lab3 is a technology club for networking and working on common projects.
+  year: 2022 &mdash; Present
+  url: https://offenbacherhelfen.de/
+  summary: Volunteer club for charity work in and around Offenbach and the rest of Germany.
 
 
 - organization: Digital Retro Park e.V.
   role: Member
   year: 2020 &mdash; Present
   url: https://digitalretropark.de/
-  summary: Just last year I joined the Digital Retro Park club in Offenbach, which is dedicated to keeping retro computing knowledge alive and flourishing.
+  summary: I recently joined the Digital Retro Park club in Offenbach, which is dedicated to keeping retro computing knowledge alive and flourishing.
 
-- organization: americancultureclub.org
+- organization: Offenbach English Speakers
   role: Organizer
   year: 2020 &mdash; Present
-  url: https://americancultureclub.org/
-  summary: American Culture Club is a Slack and Meetup.com group for networking with Americans across the country.
+  url: https://mainandwine.eu
+  summary: The English-speaking community for Offenbach and surroundings, meeting regularly for evening events and remote lunchbreaks.

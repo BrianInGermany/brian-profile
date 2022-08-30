@@ -11,16 +11,16 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Brian Junker-Latocha"
-resume_title:                   "Senior VUI Architect,</br>VUI.agency"
+resume_title:                   "Senior Voice Architect,</br>VUI.agency"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "brian@thejunkyard.cc"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       ""
-resume_contact_address:         "Greater Frankfurt Area, Germany"
+resume_contact_address:         "Offenbach am Main, Germany"
 
-resume_header_contact_info:     "Greater Frankfurt Area, Germany • brian@thejunkyard.cc"
+resume_header_contact_info:     "Offenbach am Main, Germany • brian@thejunkyard.cc"
 display_header_contact_info:    "true"
 
 resume_header_intro: ""
